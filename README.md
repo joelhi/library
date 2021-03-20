@@ -10,6 +10,7 @@ A collection of useful resources like papers, phd theses, etc.
 **ML**
 
 - [A Neural Network in 13 lines of python](https://iamtrask.github.io/2015/07/27/python-network-part2/)
+- [Efficient Backpropagation - Y.Lecun - 1998](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
 
 
 
