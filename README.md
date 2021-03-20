@@ -11,7 +11,7 @@ A collection of useful online resources like papers, phd theses, forum posts etc
 
 ### Computer Science
 
-**ML - Udemy course**
+**Machine Learning {Udemy course}**
 
 - [A Neural Network in 13 lines of python](https://iamtrask.github.io/2015/07/27/python-network-part2/)
 - [Efficient Backpropagation - Y.Lecun - 1998](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
