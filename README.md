@@ -1,11 +1,11 @@
 # library
 A collection of useful online resources like papers, phd theses, forum posts etc.
 
-### Engineering / Mechanics
+### Structural Engineering
 
 ***
 
-### Architecture / Computational Design
+### Architectural Design
 
 ***
 
