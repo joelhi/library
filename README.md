@@ -1,9 +1,16 @@
 # library
 A collection of useful resources like papers, phd theses, etc.
 
-Engineering / Mechanics
+## Engineering / Mechanics
 
-Computational Geometry
+## Architecture / Computational Design
+
+## Computer Science
+
+()
+
+
+
 
 
 
