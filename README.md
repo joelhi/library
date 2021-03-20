@@ -1,5 +1,5 @@
 # library
-A collection of useful resources like papers, phd theses, etc.
+A collection of useful online resources like papers, phd theses, forum posts etc.
 
 ### Engineering / Mechanics
 
