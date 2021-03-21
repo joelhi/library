@@ -6,7 +6,7 @@ A collection of useful online resources like papers, phd theses, forum posts etc
 **Structural Mechanics**
 
 - Isogeometric Analysis (IGA)
-  - [J. Kiendl - Isogeometric Analysis and Shape Optimal Design of Shell Structures - 2010](https://mediatum.ub.tum.de/doc/1002634/464162.pdf) 
+  - [Isogeometric Analysis and Shape Optimal Design of Shell Structures - J. Kiendl - 2010](https://mediatum.ub.tum.de/doc/1002634/464162.pdf) 
 
 **Form finding / Gridshells**
 
