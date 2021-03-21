@@ -3,7 +3,7 @@ A collection of useful online resources like papers, phd theses, forum posts etc
 
 ### Structural Engineering
 
-**Structura Mechanics**
+**Structural Mechanics**
 
 **Form finding / Gridshells**
 
