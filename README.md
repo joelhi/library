@@ -19,6 +19,8 @@ A collection of useful online resources like papers, phd theses, forum posts etc
 
 **Computational Geometry**
 
+- [Keenan Crane - Webpage](https://www.cs.cmu.edu/~kmcrane/)
+
 
 
 
