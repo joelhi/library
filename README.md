@@ -3,9 +3,19 @@ A collection of useful online resources like papers, phd theses, forum posts etc
 
 ### Structural Engineering
 
+**Structura Mechanics**
+
+**Form finding / Gridshells**
+
 ***
 
 ### Architectural Design
+
+**Geometry / Modeling**
+
+**Theory**
+
+**Misc**
 
 ***
 
