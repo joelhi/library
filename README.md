@@ -15,7 +15,7 @@ A collection of useful online resources like papers, phd theses, forum posts etc
 
 - Bending Active
   - [Calibrated Modeing of Form-Active Hybrid Structures - Quinn - 2016](https://www.researchgate.net/publication/306402535_Calibrated_and_Interactive_Modelling_of_Form-Active_Hybrid_Structures)
-  -  
+  - [Thinking Topologically at Early Stage Parametric Design - Harding - 2012](https://www.researchgate.net/publication/269634846_Thinking_Topologically_at_Early_Stage_Parametric_Design)
 
 ***
 
