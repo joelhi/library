@@ -8,7 +8,9 @@ A collection of useful online resources like papers, phd theses, forum posts etc
 - Isogeometric Analysis (IGA)
   - [Isogeometric Analysis and Shape Optimal Design of Shell Structures - J. Kiendl - 2010](https://mediatum.ub.tum.de/doc/1002634/464162.pdf) 
 
-**Form finding / Gridshells**
+**Form finding**
+
+- [Discrete Geodesic Nets - Rabinovich - 2018](https://igl.ethz.ch/projects/developable/DiscreteGeodesicDevelopableNets-2018-TOG-Rabinovich-et-al.pdf)
 
 ***
 
