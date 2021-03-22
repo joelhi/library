@@ -16,7 +16,10 @@ A collection of useful online resources like papers, phd theses, forum posts etc
 
 ### Architectural Design
 
-**Geometry / Modeling**
+**Modeling**
+
+- Bending Active
+  - [Calibrated Modeing of Form-Active Hybrid Structures](https://www.researchgate.net/publication/306402535_Calibrated_and_Interactive_Modelling_of_Form-Active_Hybrid_Structures) 
 
 **Theory**
 
