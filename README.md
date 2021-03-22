@@ -26,6 +26,8 @@ A collection of useful online resources like papers, phd theses, forum posts etc
 - Parametric Modeling
   - [Thinking Topologically at Early Stage Parametric Design - Harding - 2012](https://www.researchgate.net/publication/269634846_Thinking_Topologically_at_Early_Stage_Parametric_Design)   
 
+**Projects**
+
 **Theory**
 
 **Misc**
