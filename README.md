@@ -14,7 +14,8 @@ A collection of useful online resources like papers, phd theses, forum posts etc
   - [Discrete Geodesic Nets - Rabinovich - 2018](https://igl.ethz.ch/projects/developable/DiscreteGeodesicDevelopableNets-2018-TOG-Rabinovich-et-al.pdf)
 
 - Bending Active
-  - [Calibrated Modeing of Form-Active Hybrid Structures - Quinn - 2016](https://www.researchgate.net/publication/306402535_Calibrated_and_Interactive_Modelling_of_Form-Active_Hybrid_Structures) 
+  - [Calibrated Modeing of Form-Active Hybrid Structures - Quinn - 2016](https://www.researchgate.net/publication/306402535_Calibrated_and_Interactive_Modelling_of_Form-Active_Hybrid_Structures)
+  -  
 
 ***
 
