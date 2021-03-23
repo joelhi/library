@@ -55,7 +55,7 @@ A collection of useful online resources like papers, phd theses, forum posts etc
 
 **Practice**
 
-- https://www.pluralsight.com/content/dam/pluralsight2/landing-pages/offers/flow/pdf/Pluralsight_20Patterns_ebook.pdf
+- [20 Patterns to watch out for - Pluralsight - 2019](https://www.pluralsight.com/content/dam/pluralsight2/landing-pages/offers/flow/pdf/Pluralsight_20Patterns_ebook.pdf)
 
 
 
