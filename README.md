@@ -49,7 +49,13 @@ A collection of useful online resources like papers, phd theses, forum posts etc
 - [Keenan Crane - Webpage](https://www.cs.cmu.edu/~kmcrane/)
 
 
+***
 
+### Software Development
+
+**Practice**
+
+- https://www.pluralsight.com/content/dam/pluralsight2/landing-pages/offers/flow/pdf/Pluralsight_20Patterns_ebook.pdf
 
 
 
