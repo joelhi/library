@@ -53,13 +53,10 @@ A collection of useful online resources like papers, phd theses, forum posts etc
 
 ### Software Development
 
-**Practice**
+**Practice / Methods**
 
 - [20 Patterns to watch out for - Pluralsight - 2019](https://www.pluralsight.com/content/dam/pluralsight2/landing-pages/offers/flow/pdf/Pluralsight_20Patterns_ebook.pdf)
 
-**Libraries**
+**Utilities / Libraries**
 
-- UI
-  - Node Based 
-    - [Luna Node Editor Framework](https://www.luna-lang.org/index.html#Company)
-    - [Node Graph Processor](https://github.com/alelievr/NodeGraphProcessor)
+
