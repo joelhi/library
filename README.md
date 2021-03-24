@@ -62,3 +62,4 @@ A collection of useful online resources like papers, phd theses, forum posts etc
 - UI
   - Node Based 
     - [Luna Node Editor Framework](https://www.luna-lang.org/index.html#Company)
+    - [Node Graph Processor](https://github.com/alelievr/NodeGraphProcessor)
