@@ -31,6 +31,8 @@ A collection of useful online resources like papers, phd theses, forum posts etc
 **Theory**
 
 **Misc**
+- Drawing Resources
+  - [Dimensions.com - Building Resources](https://www.dimensions.com/classifications/buildings)  
 
 ***
 
