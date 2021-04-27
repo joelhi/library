@@ -50,6 +50,10 @@ A collection of useful online resources like papers, phd theses, forum posts etc
 
 - [Keenan Crane - Webpage](https://www.cs.cmu.edu/~kmcrane/)
 
+**Computer Graphics**
+
+- [Three.js Fundamentals](https://threejsfundamentals.org/)
+
 
 ***
 
