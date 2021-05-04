@@ -10,7 +10,7 @@ A collection of useful online resources like papers, phd theses, forum posts etc
 
 **Form finding / Geometry**
 
-- Numerical Methods
+- Physical Simulations
   - [XPBD: Position-Based Simulation of Compliant Constrained Dynamics - Macklin - 2016](http://mmacklin.com/xpbd.pdf)   
 
 - Geodesics
