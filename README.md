@@ -10,6 +10,9 @@ A collection of useful online resources like papers, phd theses, forum posts etc
 
 **Form finding / Geometry**
 
+- Numerical Methods
+  - [XPBD: Position-Based Simulation of Compliant Constrained Dynamics - Macklin - 2016](http://mmacklin.com/xpbd.pdf)   
+
 - Geodesics
   - [Discrete Geodesic Nets - Rabinovich - 2018](https://igl.ethz.ch/projects/developable/DiscreteGeodesicDevelopableNets-2018-TOG-Rabinovich-et-al.pdf)
 
