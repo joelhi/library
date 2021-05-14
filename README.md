@@ -56,6 +56,7 @@ A collection of useful online resources like papers, phd theses, forum posts etc
 **Computer Graphics**
 
 - [Three.js Fundamentals](https://threejsfundamentals.org/)
+- [Learn OpenTK PDF](https://learnopengl.com/book/book_pdf.pdf)
 
 
 ***
