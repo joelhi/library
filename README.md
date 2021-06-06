@@ -50,6 +50,7 @@ A collection of useful online resources like papers, phd theses, forum posts etc
   - [Deep Sparse Rectifier Neural Network - X.Glorot - 2011](http://proceedings.mlr.press/v15/glorot11a/glorot11a.pdf)
 - CNNs
   - [The Ultimate Guide to CNNs](https://www.superdatascience.com/blogs/the-ultimate-guide-to-convolutional-neural-networks-cnn)
+  - [Gradient Based Learning Applied to Document Recongnition - Y.Lecun - 1998](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
 
 
 **Computational Geometry**
