@@ -11,6 +11,7 @@ A collection of useful online resources like papers, phd theses, forum posts etc
 **Form finding / Geometry**
 
 - Physical Simulations
+  - [Position Based Simulation Methods in Computer Graphics - Macklin - 2015](http://mmacklin.com/EG2015PBD.pdf) 
   - [XPBD: Position-Based Simulation of Compliant Constrained Dynamics - Macklin - 2016](http://mmacklin.com/xpbd.pdf)
   - [Interactive real-time physics: An intuitive approach to form-finding and structural analysis for design and education - G.Sennatore](https://www.sciencedirect.com/science/article/pii/S0010448514000311)   
 
