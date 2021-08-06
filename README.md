@@ -22,6 +22,8 @@ A collection of useful online resources like papers, phd theses, forum posts etc
 - Bending Active
   - [Calibrated Modeing of Form-Active Hybrid Structures - Quinn - 2016](https://www.researchgate.net/publication/306402535_Calibrated_and_Interactive_Modelling_of_Form-Active_Hybrid_Structures)
 
+**Structural Optimisation**
+- [An Introduction To Engineering Optimisation Methods - P.Debney - 2016](https://www.researchgate.net/publication/319210526_An_introduction_to_engineering_optimisation_methods/link/5ed3988b92851c9c5e6c34dd/download)
 
 ***
 
