@@ -76,7 +76,7 @@ A collection of useful online resources like papers, phd theses, forum posts etc
 **Practice / Methods**
 
 - [20 Patterns to watch out for - Pluralsight - 2019](https://www.pluralsight.com/content/dam/pluralsight2/landing-pages/offers/flow/pdf/Pluralsight_20Patterns_ebook.pdf)
-- [Object-Oriented Modeling and Design - Rumbaugh et. al - 1991](https://viden.io/knowledge/object-oriented-design-and-analysis/attachment/28173/object-oriented-modeling-and-design-james-rumbaugh-pdf/preview) 
+- [Object-Oriented Modeling and Design - Rumbaugh et. al - 1991](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=https%3A%2F%2Fedutechlearners.com%2Fdownload%2Fbooks%2FOOSE%2FOOAD.pdf&clen=25554705&chunk=true) 
 
 **General**
 - [Paul Graham Essays](http://www.paulgraham.com/articles.html)
