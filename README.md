@@ -80,6 +80,7 @@ A collection of useful online resources like papers, phd theses, forum posts etc
 
 **General**
 - [Paul Graham Essays](http://www.paulgraham.com/articles.html)
+- [W3School](https://www.w3schools.com/)
 
 
 
