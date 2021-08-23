@@ -67,6 +67,7 @@ A collection of useful online resources like papers, phd theses, forum posts etc
 
 - [Three.js Fundamentals](https://threejsfundamentals.org/)
 - [Learn OpenTK PDF](https://learnopengl.com/book/book_pdf.pdf)
+- [Physically Based Rendering - Jakob Wenzel]
 
 
 ***
