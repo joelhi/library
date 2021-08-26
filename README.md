@@ -85,5 +85,12 @@ A collection of useful online resources like papers, phd theses, forum posts etc
 - [W3School](https://www.w3schools.com/)
 
 
+***
 
+### Graphic Design
+
+**Typography**
+
+- Type Foundries
+  - [atipo (pay what you want)](https://www.atipofoundry.com/)   
 
