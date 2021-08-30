@@ -62,7 +62,9 @@ A collection of useful online resources like papers, phd theses, forum posts etc
 
 **Computational Geometry**
 
-- [Keenan Crane - Webpage](https://www.cs.cmu.edu/~kmcrane/)
+- General Blogs and Web pages
+  - [Keenan Crane - Webpage](https://www.cs.cmu.edu/~kmcrane/)
+  - [Alexander Kolliopoulos](http://www.dgp.toronto.edu/~alexk/)
 
 **Computer Graphics**
 
