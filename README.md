@@ -50,7 +50,7 @@ A collection of useful online resources like papers, phd theses, forum posts etc
 
 **Machine Learning**
 
--Implementation
+- Implementation
   - [Coding Neural Networks in C#](https://www.tech-quantum.com/learn-coding-neural-network-in-csharp-understanding-what-we-are-going-to-do/)
 
 - ANNs
