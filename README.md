@@ -49,6 +49,8 @@ A collection of useful online resources like papers, phd theses, forum posts etc
 ### Computer Science
 
 **Machine Learning**
+-Implementation
+  - [Coding Neural Networks in C#](https://www.tech-quantum.com/learn-coding-neural-network-in-csharp-understanding-what-we-are-going-to-do/)
 
 - ANNs
   - [A Neural Network in 13 lines of python](https://iamtrask.github.io/2015/07/27/python-network-part2/)
