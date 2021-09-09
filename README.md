@@ -53,6 +53,9 @@ A collection of useful online resources like papers, phd theses, forum posts etc
 - Implementation
   - [Coding Neural Networks in C#](https://www.tech-quantum.com/learn-coding-neural-network-in-csharp-understanding-what-we-are-going-to-do/)
 
+- Courses
+  - [MIT Intro To Deep Learning](http://introtodeeplearning.com/)
+
 - ANNs
   - [A Neural Network in 13 lines of python](https://iamtrask.github.io/2015/07/27/python-network-part2/)
   - [Efficient Backpropagation - Y.Lecun - 1998](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
