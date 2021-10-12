@@ -89,7 +89,9 @@ A collection of useful online resources like papers, phd theses, forum posts etc
 **Practice / Methods**
 
 - [20 Patterns to watch out for - Pluralsight - 2019](https://www.pluralsight.com/content/dam/pluralsight2/landing-pages/offers/flow/pdf/Pluralsight_20Patterns_ebook.pdf)
-- [Object-Oriented Modeling and Design - Rumbaugh et. al - 1991](https://edutechlearners.com/download/books/OOSE/OOAD.pdf) 
+- [Object-Oriented Modeling and Design - Rumbaugh et. al - 1991](https://edutechlearners.com/download/books/OOSE/OOAD.pdf)
+- [C++ for C# Developers: The Ebook - Jackson Dunstam](https://www.jacksondunstan.com/articles/7254)
+- [C++ scripting part 1: C#/C++ Communication - Jackson Dunstam](https://www.jacksondunstan.com/articles/3938#more-3938) 
 
 **General**
 - [Paul Graham Essays](http://www.paulgraham.com/articles.html)
