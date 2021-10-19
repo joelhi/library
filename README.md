@@ -75,6 +75,9 @@ A collection of useful online resources like papers, phd theses, forum posts etc
 - Papers
   - [Marching Cubes: A High Resolution 3D Surface Construction Algorithm - W. Lorensen - 1987](https://people.eecs.berkeley.edu/~jrs/meshpapers/LorensenCline.pdf) 
 
+- Books
+  - [Geometry Tools for Computer Graphics -P.J. Schneider - 2003] 
+
 **Computer Graphics**
 
 - [Three.js Fundamentals](https://threejsfundamentals.org/)
