@@ -71,6 +71,7 @@ A collection of useful online resources like papers, phd theses, forum posts etc
 - General Blogs and Web pages
   - [Keenan Crane - Webpage](https://www.cs.cmu.edu/~kmcrane/)
   - [Alexander Kolliopoulos](http://www.dgp.toronto.edu/~alexk/)
+  - [GeometricTools.com](https://www.geometrictools.com/index.html)
 
 - Papers
   - [Marching Cubes: A High Resolution 3D Surface Construction Algorithm - W. Lorensen - 1987](https://people.eecs.berkeley.edu/~jrs/meshpapers/LorensenCline.pdf) 
