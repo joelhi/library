@@ -68,6 +68,7 @@ A collection of useful online resources like papers, phd theses, forum posts etc
 
 - Quality-Diversity (QD)
   - [Quality-Diversity github](https://quality-diversity.github.io/) 
+  - [Introduction to Quality-Diversity Algorithms - Maxime Allard - 2021](https://maximeallard.lu/2021/03/24/quality-diversity-algorithms/)
 
 **Computational Geometry**
 
