@@ -1,5 +1,4 @@
 # library
-A collection of useful online resources like papers, phd theses, forum posts covering a wide range of topics (that I like) spanning from Structural Mechanics to Machine Learning and Computational Geometry.
 
 ### Structural Engineering
 
