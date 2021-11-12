@@ -64,7 +64,10 @@ A collection of useful online resources like papers, phd theses, forum posts etc
   - [The Ultimate Guide to CNNs](https://www.superdatascience.com/blogs/the-ultimate-guide-to-convolutional-neural-networks-cnn)
   - [Gradient Based Learning Applied to Document Recongnition - Y.Lecun - 1998](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
 - Libraries
-  - [Definitive Guide to Tensorflow.NET](https://tensorflownet.readthedocs.io/en/latest/FrontCover.html)  
+  - [Definitive Guide to Tensorflow.NET](https://tensorflownet.readthedocs.io/en/latest/FrontCover.html) 
+
+- Quality-Diversity (QD)
+  - [Quality-Diversity github](https://quality-diversity.github.io/) 
 
 **Computational Geometry**
 
