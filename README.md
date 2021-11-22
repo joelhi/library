@@ -13,7 +13,8 @@
   - [Direct Position Based Solver For Stiff Rods - Deul - 2018](https://animation.rwth-aachen.de/media/papers/2018-CGF-Rods.pdf)  
   - [Position Based Simulation Methods in Computer Graphics - Macklin - 2015](http://mmacklin.com/EG2015PBD.pdf) 
   - [XPBD: Position-Based Simulation of Compliant Constrained Dynamics - Macklin - 2016](http://mmacklin.com/xpbd.pdf)
-  - [Interactive real-time physics: An intuitive approach to form-finding and structural analysis for design and education - G.Sennatore](https://www.sciencedirect.com/science/article/pii/S0010448514000311)   
+  - [Interactive real-time physics: An intuitive approach to form-finding and structural analysis for design and education - G.Sennatore](https://www.sciencedirect.com/science/article/pii/S0010448514000311)
+  - [Real-Time Simulation of Deformation and Fracture of Stiff Materials - M. Muller - 2001](https://matthias-research.github.io/pages/publications/fracture.pdf)
 
 - Geodesics
   - [Discrete Geodesic Nets - Rabinovich - 2018](https://igl.ethz.ch/projects/developable/DiscreteGeodesicDevelopableNets-2018-TOG-Rabinovich-et-al.pdf)
