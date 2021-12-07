@@ -73,7 +73,7 @@
 **Computational Geometry**
 
 
-- General Blogs and Web pages
+- Libraries
 
 - General Blogs and Web pages
   - [Keenan Crane - Webpage](https://www.cs.cmu.edu/~kmcrane/)
