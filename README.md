@@ -34,6 +34,9 @@
 - Parametric Modeling
   - [Thinking Topologically at Early Stage Parametric Design - Harding - 2012](https://www.researchgate.net/publication/269634846_Thinking_Topologically_at_Early_Stage_Parametric_Design)   
 
+- Generative Modeling
+  - [The application of a data-driven, generative model in design - A. Bidgoli - 2018](https://arxiv.org/ftp/arxiv/papers/1904/1904.01083.pdf) 
+
 **Projects**
 
 **Theory**
