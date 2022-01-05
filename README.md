@@ -31,11 +31,10 @@
 
 **Modeling**
 
-- Parametric Modeling
+- Computational Design
   - [Thinking Topologically at Early Stage Parametric Design - Harding - 2012](https://www.researchgate.net/publication/269634846_Thinking_Topologically_at_Early_Stage_Parametric_Design)   
-
-- Generative Modeling
-  - [The application of a data-driven, generative model in design - A. Bidgoli - 2018](https://arxiv.org/ftp/arxiv/papers/1904/1904.01083.pdf) 
+  - [The application of a data-driven, generative model in design - A. Bidgoli - 2018](https://arxiv.org/ftp/arxiv/papers/1904/1904.01083.pdf)
+  - [Computational design in architecture:Defining parametric, generative, andalgorithmic design - I. Caetano - 2020](https://reader.elsevier.com/reader/sd/pii/S2095263520300029?token=7ABC071B3F27C03915289C8B4BDD7B74B2D0D51D7B1622E41E5E4ECE144D4B53A9E141F80E62B3065BA33064597740D0&originRegion=eu-west-1&originCreation=20220105171417)
 
 **Projects**
 
@@ -76,7 +75,6 @@
   - [Introduction to Quality-Diversity Algorithms - Maxime Allard - 2021](https://maximeallard.lu/2021/03/24/quality-diversity-algorithms/)
 
 **Computational Geometry**
-
 
 - Libraries
 
