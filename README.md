@@ -74,6 +74,9 @@
   - [Quality-Diversity github](https://quality-diversity.github.io/) 
   - [Introduction to Quality-Diversity Algorithms - Maxime Allard - 2021](https://maximeallard.lu/2021/03/24/quality-diversity-algorithms/)
 
+- Self Organizing Maps (SOM)
+  - [The self organizing map - T Kohonen - 1990](https://www.sciencedirect.com/sdfe/reader/pii/S0925231298000307/pdf)
+
 **Computational Geometry**
 
 - Libraries
