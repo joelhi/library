@@ -38,7 +38,7 @@
 
 - PhD Dissertations
   - [Integrated material practice in free‐form timber structures - T. Svilans - 2020](https://tomsvilans.com/docs/Svilans%20-%202020%20-%20Integrated%20material%20practice%20in%20free-form%20timber%20structures%20-%20final.pdf)
-  - 
+  - [Modelled on Software Engineering: Flexible Parametric Models in the Practice of Architecture - D.Davis - 2013](https://www.danieldavis.com/thesis/) 
 
 **Projects**
 
@@ -46,8 +46,8 @@
 - Sustainability
   - [Buildings as a global carbon sink - Churkina et. al - 2020](https://www.congress.gov/116/meeting/house/110542/documents/HHRG-116-II00-20200226-SD004.pdf)
 - Geometry
-  - [Geometrical and Graphical Essays - George Adams - 1805](https://books.google.se/books?id=9CFRAAAAYAAJ&printsec=frontcover&source=gbs_atb&redir_esc=y#v=onepage&q&f=false)
-  - [Modelled on Software Engineering: Flexible Parametric Models in the Practice of Architecture - D.Davis - 2013](https://www.danieldavis.com/thesis/)    
+  - [Geometrical and Graphical Essays - George Adams - 1805](https://books.google.se/booksid=9CFRAAAAYAAJ&printsec=frontcover&source=gbs_atb&redir_esc=y#v=onepage&q&f=false)
+   
 
 **Misc**
 - Drawing Resources
