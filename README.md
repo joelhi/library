@@ -29,12 +29,16 @@
 
 ### Architectural Design
 
-**Modeling**
+**Computational Design**
 
-- Computational Design
+- Papers
   - [Thinking Topologically at Early Stage Parametric Design - Harding - 2012](https://www.researchgate.net/publication/269634846_Thinking_Topologically_at_Early_Stage_Parametric_Design)   
   - [The application of a data-driven, generative model in design - A. Bidgoli - 2018](https://arxiv.org/ftp/arxiv/papers/1904/1904.01083.pdf)
   - [Computational design in architecture:Defining parametric, generative, andalgorithmic design - I. Caetano - 2020](https://reader.elsevier.com/reader/sd/pii/S2095263520300029?token=7ABC071B3F27C03915289C8B4BDD7B74B2D0D51D7B1622E41E5E4ECE144D4B53A9E141F80E62B3065BA33064597740D0&originRegion=eu-west-1&originCreation=20220105171417)
+
+- PhD Dissertations
+  - [Integrated material practice in free‐form timber structures - T. Svilans - 2020](https://tomsvilans.com/docs/Svilans%20-%202020%20-%20Integrated%20material%20practice%20in%20free-form%20timber%20structures%20-%20final.pdf)
+  - 
 
 **Projects**
 
@@ -42,7 +46,8 @@
 - Sustainability
   - [Buildings as a global carbon sink - Churkina et. al - 2020](https://www.congress.gov/116/meeting/house/110542/documents/HHRG-116-II00-20200226-SD004.pdf)
 - Geometry
-  - [Geometrical and Graphical Essays - George Adams - 1805](https://books.google.se/books?id=9CFRAAAAYAAJ&printsec=frontcover&source=gbs_atb&redir_esc=y#v=onepage&q&f=false)    
+  - [Geometrical and Graphical Essays - George Adams - 1805](https://books.google.se/books?id=9CFRAAAAYAAJ&printsec=frontcover&source=gbs_atb&redir_esc=y#v=onepage&q&f=false)
+  - [Modelled on Software Engineering: Flexible Parametric Models in the Practice of Architecture - D.Davis - 2013](https://www.danieldavis.com/thesis/)    
 
 **Misc**
 - Drawing Resources
