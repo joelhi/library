@@ -96,6 +96,7 @@
   - [Marching Cubes: A High Resolution 3D Surface Construction Algorithm - W. Lorensen - 1987](https://people.eecs.berkeley.edu/~jrs/meshpapers/LorensenCline.pdf)
   - [An Efficient, Practical Algorithm and Implementation for Computing Multiplicatively Weighted Voronoi Diagrams - M.Held - 2020](https://arxiv.org/abs/2006.14298)
   - [Dynamic Additively Weighted Voronoi Diagrams in 2D](https://www.researchgate.net/publication/220770059_Dynamic_Additively_Weighted_Voronoi_Diagrams_in_2D)
+  - [Triangle: Engineering a 2D Quality Mesh Generator and Delaunay Triangulator - J.Shewchuk - 1996](https://people.eecs.berkeley.edu/~jrs/papers/triangle.pdf)
 
 - Books
   - [Geometry Tools for Computer Graphics -P.J. Schneider - 2003](http://lib.ysu.am/open_books/312121.pdf)
