@@ -40,6 +40,9 @@
   - [Integrated material practice in free‐form timber structures - T. Svilans - 2020](https://tomsvilans.com/docs/Svilans%20-%202020%20-%20Integrated%20material%20practice%20in%20free-form%20timber%20structures%20-%20final.pdf)
   - [Modelled on Software Engineering: Flexible Parametric Models in the Practice of Architecture - D.Davis - 2013](https://www.danieldavis.com/thesis/) 
 
+- Books
+  - [CITA Complex Modelling](https://www.researchgate.net/publication/345900871_CITA_Complex_Modelling) 
+
 **Projects**
 
 **Theory**
