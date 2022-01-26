@@ -94,6 +94,7 @@
   - [Keenan Crane - Webpage](https://www.cs.cmu.edu/~kmcrane/)
   - [Alexander Kolliopoulos](http://www.dgp.toronto.edu/~alexk/)
   - [GeometricTools.com](https://www.geometrictools.com/index.html)
+  - [Hexalab.net](https://www.hexalab.net/)
 
 - Papers
   - [Marching Cubes: A High Resolution 3D Surface Construction Algorithm - W. Lorensen - 1987](https://people.eecs.berkeley.edu/~jrs/meshpapers/LorensenCline.pdf)
