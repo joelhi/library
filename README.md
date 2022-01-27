@@ -41,7 +41,8 @@
   - [Modelled on Software Engineering: Flexible Parametric Models in the Practice of Architecture - D.Davis - 2013](https://www.danieldavis.com/thesis/) 
 
 - Books
-  - [CITA Complex Modelling](https://www.researchgate.net/publication/345900871_CITA_Complex_Modelling) 
+  - [CITA Complex Modelling](https://www.researchgate.net/publication/345900871_CITA_Complex_Modelling)
+  - [Elements of parametric design - Robert Woodbury - 2010](https://www.academia.edu/43332284/Robert_Woodbury_Elements_of_Parametric_Design_2010_Routledge_libgen) 
 
 **Projects**
 
