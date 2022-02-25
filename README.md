@@ -64,6 +64,9 @@
 
 **Machine Learning**
 
+- General Resources
+  -[Kaggle.com](https://www.kaggle.com/) 
+
 - Implementation
   - [Coding Neural Networks in C#](https://www.tech-quantum.com/learn-coding-neural-network-in-csharp-understanding-what-we-are-going-to-do/)
 
