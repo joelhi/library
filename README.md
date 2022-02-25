@@ -38,9 +38,10 @@
   - [Computational design in architecture:Defining parametric, generative, andalgorithmic design - I. Caetano - 2020](https://reader.elsevier.com/reader/sd/pii/S2095263520300029?token=7ABC071B3F27C03915289C8B4BDD7B74B2D0D51D7B1622E41E5E4ECE144D4B53A9E141F80E62B3065BA33064597740D0&originRegion=eu-west-1&originCreation=20220105171417)
   - [Deleuze and the use of the genetic algorithm in architecture - M. De Landa - 2001](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.453.2327&rep=rep1&type=pdf)
 
-- PhD Dissertations
+- Dissertations
   - [Integrated material practice in free‐form timber structures - T. Svilans - 2020](https://tomsvilans.com/docs/Svilans%20-%202020%20-%20Integrated%20material%20practice%20in%20free-form%20timber%20structures%20-%20final.pdf)
-  - [Modelled on Software Engineering: Flexible Parametric Models in the Practice of Architecture - D.Davis - 2013](https://www.danieldavis.com/thesis/) 
+  - [Modelled on Software Engineering: Flexible Parametric Models in the Practice of Architecture - D.Davis - 2013](https://www.danieldavis.com/thesis/)
+  - [Multi-Objective Design Interface - R. Vierlinger - 2013](https://www.researchgate.net/publication/283073414_Multi_Objective_Design_Interface) 
 
 - Books
   - [CITA Complex Modelling](https://www.researchgate.net/publication/345900871_CITA_Complex_Modelling)
