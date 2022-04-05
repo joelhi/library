@@ -22,6 +22,9 @@
 - Bending Active
   - [Calibrated Modeing of Form-Active Hybrid Structures - Quinn - 2016](https://www.researchgate.net/publication/306402535_Calibrated_and_Interactive_Modelling_of_Form-Active_Hybrid_Structures)
 
+- Dissertations
+  - [	Topology-driven form-finding - S. Suzuki - 2020](https://elib.uni-stuttgart.de/handle/11682/10882) 
+
 **Structural Optimisation**
 - [An Introduction To Engineering Optimisation Methods - P.Debney - 2016](https://www.researchgate.net/publication/319210526_An_introduction_to_engineering_optimisation_methods/link/5ed3988b92851c9c5e6c34dd/download)
 
