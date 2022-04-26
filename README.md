@@ -28,6 +28,9 @@
 **Structural Optimisation**
 - [An Introduction To Engineering Optimisation Methods - P.Debney - 2016](https://www.researchgate.net/publication/319210526_An_introduction_to_engineering_optimisation_methods/link/5ed3988b92851c9c5e6c34dd/download)
 
+**Case Studies**
+- [Briefing: Super tall timber Oakwood Tower - R.Foster - 2016](https://www.researchgate.net/publication/306028081_Briefing_Super_tall_timber_-_Oakwood_Tower)
+
 ***
 
 ### Architectural Design
