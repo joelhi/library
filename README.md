@@ -59,6 +59,7 @@
 - General
   - [Designing to reduce construction cost - B.C Paulson Jr. - 1976](https://www.danieldavis.com/papers/boyd.pdf) 
   - [Papers by Sergison Bates ETH](https://archive.arch.ethz.ch/gast-professuren/sergisonbates/p1.html)
+  - [Digital in Architecture: Then, now and in the future - M. Claypool]
 - Sustainability
   - [Buildings as a global carbon sink - Churkina et. al - 2020](https://www.congress.gov/116/meeting/house/110542/documents/HHRG-116-II00-20200226-SD004.pdf)
 - Geometry
