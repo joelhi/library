@@ -160,8 +160,9 @@
 - Type Foundries
   - [atipo (pay what you want)](https://www.atipofoundry.com/)   
 
+***
 
 ### Random
 
-**Conginition and Visuals
+**Conginition and Visuals**
 - [The Cognitive Style of Power Point - E. Tufte](https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf)
