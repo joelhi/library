@@ -101,7 +101,7 @@
 - Quality-Diversity (QD)
   - [Quality-Diversity github](https://quality-diversity.github.io/) 
   - [Introduction to Quality-Diversity Algorithms - Maxime Allard - 2021](https://maximeallard.lu/2021/03/24/quality-diversity-algorithms/)
-  - [Quality-Diversity: A New Frontier for Evolutionary Computation - J. K. Pugh - 2016]
+  - [Quality-Diversity: A New Frontier for Evolutionary Computation - J. K. Pugh - 2016](https://www.frontiersin.org/articles/10.3389/frobt.2016.00040/full)
 
 - Self Organizing Maps (SOM)
   - [The self organizing map - T Kohonen - 1990](https://www.sciencedirect.com/sdfe/reader/pii/S0925231298000307/pdf)
