@@ -5,7 +5,26 @@
 **Structural Mechanics**
 
 - Isogeometric Analysis (IGA)
-  - [Isogeometric Analysis and Shape Optimal Design of Shell Structures - J. Kiendl - 2010](https://mediatum.ub.tum.de/doc/1002634/464162.pdf) 
+  - [Isogeometric Analysis and Shape Optimal Design of Shell Structures - J. Kiendl - 2010](https://mediatum.ub.tum.de/doc/1002634/464162.pdf)
+
+- Open Source FEA Software
+  - [Basilisk](http://basilisk.fr/)
+  - [code_saturne](https://lnkd.in/eCw33b-M)
+  - [deal.II](https://www.dealii.org/)
+  - [Elmer](https://lnkd.in/deX9SJS)
+  - [FEniCS](https://fenicsproject.org)
+  - [fluidity](https://lnkd.in/dm68gZb)
+  - [Kratos](https://lnkd.in/etPHjpjY)
+  - [Nektar++](https://www.nektar.info)
+  - [NGsolve](https://ngsolve.org/)
+  - [OpenFOAM](https://www.openfoam.com)
+  - [openLB](https://www.openlb.net/)
+  - [Palabos](https://palabos.unige.ch/)
+  - [Paris Simulator](https://lnkd.in/eUmRtAgr)
+  - [pyFR](https://www.pyfr.org/)
+  - [Sparselizard](https://lnkd.in/dPjnJH9)
+  - [SU2](https://su2code.github.io)
+  - [waLBerla](https://walberla.net/)
 
 **Form finding / Geometry**
 
