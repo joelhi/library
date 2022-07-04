@@ -9,7 +9,7 @@
 
 - Open Source FEA Software
   - [Basilisk](http://basilisk.fr/)
-  - [code_saturne](https://lnkd.in/eCw33b-M)
+  - [code_saturne]([https://lnkd.in/eCw33b-M)](https://www.code-saturne.org/) (CFD)
   - [deal.II](https://www.dealii.org/)
   - [Elmer](https://lnkd.in/deX9SJS)
   - [FEniCS](https://fenicsproject.org)
