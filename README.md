@@ -138,6 +138,7 @@
   - [Hexalab.net](https://www.hexalab.net/)
   - [Dual Contouring - Blogpost](http://www.boristhebrave.com/2018/04/15/dual-contouring-tutorial/)
   - [Geometric Deep Learning](https://geometricdeeplearning.com/)
+  - [MIT Open Courseware - Computational Geometry]
 
 - Papers
   - [Marching Cubes: A High Resolution 3D Surface Construction Algorithm - W. Lorensen - 1987](https://people.eecs.berkeley.edu/~jrs/meshpapers/LorensenCline.pdf)
