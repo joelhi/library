@@ -72,6 +72,9 @@
   - [CITA Complex Modelling](https://www.researchgate.net/publication/345900871_CITA_Complex_Modelling)
   - [Elements of parametric design - Robert Woodbury - 2010](https://www.academia.edu/43332284/Robert_Woodbury_Elements_of_Parametric_Design_2010_Routledge_libgen) 
 
+- General Resources
+  - [Evolutionary principles applied to problem solving - David Rutten (Blog post)](https://www.grasshopper3d.com/profiles/blogs/evolutionary-principles) 
+
 **Projects**
 
 **Theory**
