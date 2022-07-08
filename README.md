@@ -162,7 +162,7 @@
 
 ***
 
-### Software Development
+### 💾 Software Development
 
 **Practice / Methods**
 
@@ -178,7 +178,7 @@
 
 ***
 
-### Graphic Design
+### 🖋️ Graphic Design
 
 **Typography**
 
@@ -187,7 +187,7 @@
 
 ***
 
-### Random
+### 🔀 Random
 
 **Conginition and Visuals**
 - [The Cognitive Style of Power Point - E. Tufte](https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf)
