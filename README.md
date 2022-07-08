@@ -1,6 +1,6 @@
-# library :books:
+# :books: Library
 
-### Structural Engineering
+### 🏗️ Structural Engineering
 
 **Structural Mechanics**
 
@@ -52,7 +52,7 @@
 
 ***
 
-### Architectural Design
+### :house: Architectural Design
 
 **Computational Design**
 
@@ -97,7 +97,7 @@
   - [The Architecture Lobby](http://architecture-lobby.org/) 
 ***
 
-### Computer Science
+### :computer: Computer Science
 
 **Machine Learning**
 
