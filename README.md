@@ -1,5 +1,7 @@
 # :books: Library
 
+A place where I store general resources which I come across on my forays around the subjects I find interesting. I try to keep it reasonably organised.
+
 ### 🏗️ Structural Engineering
 
 **Structural Mechanics**
