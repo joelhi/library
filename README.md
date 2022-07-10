@@ -166,8 +166,8 @@ A place where I store general resources which I come across on my forays around 
 
 
 - General
-- [Three.js Fundamentals](https://threejsfundamentals.org/)
-- [Learn OpenTK PDF](https://learnopengl.com/book/book_pdf.pdf)
+  - [Three.js Fundamentals](https://threejsfundamentals.org/)
+  - [Learn OpenTK PDF](https://learnopengl.com/book/book_pdf.pdf)
 
 
 ***
