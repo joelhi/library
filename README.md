@@ -158,9 +158,16 @@ A place where I store general resources which I come across on my forays around 
 
 **Computer Graphics**
 
+- Books
+  - [Physically Based Rendering - Jakob Wenzel](https://pbr-book.org/3ed-2018/contents)
+
+- Papers
+  - [A head mounted 3 dimensional display - I.Sutherland - 1968](https://www.cise.ufl.edu/research/lok/teaching/ve-s07/papers/sutherland-headmount.pdf)
+
+
+- General
 - [Three.js Fundamentals](https://threejsfundamentals.org/)
 - [Learn OpenTK PDF](https://learnopengl.com/book/book_pdf.pdf)
-- [Physically Based Rendering - Jakob Wenzel](https://pbr-book.org/3ed-2018/contents)
 
 
 ***
