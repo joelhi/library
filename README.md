@@ -48,6 +48,7 @@ A place where I store general resources which I come across on my forays around 
 
 **Structural Optimisation**
 - [An Introduction To Engineering Optimisation Methods - P.Debney - 2016](https://www.researchgate.net/publication/319210526_An_introduction_to_engineering_optimisation_methods/link/5ed3988b92851c9c5e6c34dd/download)
+- [Evolutionary Structural Optimisation (ESO) using a bidirectional algorithm - O. Querin - 1998](https://www.researchgate.net/publication/235264844_Evolutionary_structural_optimisation_ESO_using_a_bidirectional_algorithm)
 
 **Case Studies**
 - [Briefing: Super tall timber Oakwood Tower - R.Foster - 2016](https://www.researchgate.net/publication/306028081_Briefing_Super_tall_timber_-_Oakwood_Tower)
