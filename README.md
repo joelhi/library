@@ -52,6 +52,9 @@ A place where I store general resources which I come across on my forays around 
 **Case Studies**
 - [Briefing: Super tall timber Oakwood Tower - R.Foster - 2016](https://www.researchgate.net/publication/306028081_Briefing_Super_tall_timber_-_Oakwood_Tower)
 
+**Misc**
+- [Creativity in Structural Engineering - T. Ibell](https://www.istructe.org/IStructE/media/Public/TSE-Archive/2015/247a39d4-d0b1-4a4f-808c-28166f6629f0.pdf)
+
 ***
 
 ### :house: Architectural Design
