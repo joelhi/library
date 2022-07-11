@@ -175,7 +175,7 @@ A place where I store general resources which I come across on my forays around 
 
 ***
 
-### 💾 Software Development
+### 💽 Software Development
 
 **Practice / Methods**
 
