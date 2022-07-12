@@ -51,6 +51,7 @@ A place where I store general resources which I come across on my forays around 
 - [Evolutionary Structural Optimisation (ESO) using a bidirectional algorithm - O. Querin - 1998](https://www.researchgate.net/publication/235264844_Evolutionary_structural_optimisation_ESO_using_a_bidirectional_algorithm)
 - [Optimsation Concepts and Applications in Engineering - A. Belegundu - 2011](https://digilib.bppt.go.id/sampul/Optimization_Concepts_and_Applications_in_Engineering_full.pdf)
 - [Evolutionary Structural Optimisation Revisited - C. Preisinger - 2011](https://www.researchgate.net/publication/333024000_Evolutionary_Structural_Optimization_Revisited)
+- [IStructE presentation on layout optimisation - M. Glibert & P. Shepherd](https://www.istructe.org/resources/training/layout-optimisation-of-structures/)
 
 **Case Studies**
 - [Briefing: Super tall timber Oakwood Tower - R.Foster - 2016](https://www.researchgate.net/publication/306028081_Briefing_Super_tall_timber_-_Oakwood_Tower)
