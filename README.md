@@ -45,6 +45,9 @@ A place where I store general resources which I come across on my forays around 
 
 - Dissertations
   - [	Topology-driven form-finding - S. Suzuki - 2020](https://elib.uni-stuttgart.de/handle/11682/10882) 
+  
+- Analytical Mechanics
+  - [The limits of economy of material in frame-structures - A. G. M. Mitchell - 1904](https://zenodo.org/record/1430736#.Ys6NEHbMKUk)
 
 **Structural Optimisation**
 - [An Introduction To Engineering Optimisation Methods - P.Debney - 2016](https://www.researchgate.net/publication/319210526_An_introduction_to_engineering_optimisation_methods/link/5ed3988b92851c9c5e6c34dd/download)
