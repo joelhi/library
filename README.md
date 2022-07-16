@@ -181,6 +181,9 @@ A place where I store general resources which I come across on my forays around 
   - [Three.js Fundamentals](https://threejsfundamentals.org/)
   - [Learn OpenTK PDF](https://learnopengl.com/book/book_pdf.pdf)
 
+**Misc**
+
+- [Some Empirical Criteria for Attributing Creativity to a Computer Program - G. Ritchie - 2007](https://aura.abdn.ac.uk/bitstream/handle/2164/3068/Ritchie_2007.pdf;jsessionid=C5FFE8AAA17C803373229909748E49A2?sequence=1)
 
 ***
 
