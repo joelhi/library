@@ -142,6 +142,9 @@ A place where I store general resources which I come across on my forays around 
 
 - Self Organizing Maps (SOM)
   - [The self organizing map - T Kohonen - 1990](https://www.sciencedirect.com/sdfe/reader/pii/S0925231298000307/pdf)
+  
+- Clustering
+  - [DBSCAN Revisited, Revisited: Why and How You Should (Still) Use DBSCAN - E.Schubert - 2017](https://www.ccs.neu.edu/home/vip/teach/DMcourse/2_cluster_EM_mixt/notes_slides/revisitofrevisitDBSCAN.pdf)
 
 **Computational Geometry**
 
