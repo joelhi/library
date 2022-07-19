@@ -134,6 +134,9 @@ A place where I store general resources which I come across on my forays around 
 - Libraries
   - [Definitive Guide to Tensorflow.NET](https://tensorflownet.readthedocs.io/en/latest/FrontCover.html) 
 
+- Reinforcement Learning
+  - [Deep Reinforcement Learning: Pong from Pixels - A.Karpathy (Blog post)](http://karpathy.github.io/2016/05/31/rl/)
+
 - Quality-Diversity (QD)
   - [Quality-Diversity github](https://quality-diversity.github.io/) 
   - [Introduction to Quality-Diversity Algorithms - Maxime Allard - 2021](https://maximeallard.lu/2021/03/24/quality-diversity-algorithms/)
