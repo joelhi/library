@@ -64,7 +64,7 @@ A place where I store general resources which I come across on my forays around 
 - [Creativity in Structural Engineering - T. Ibell](https://www.istructe.org/IStructE/media/Public/TSE-Archive/2015/247a39d4-d0b1-4a4f-808c-28166f6629f0.pdf)
 
 **Timber Structures**
--[Review of state of the art of dowel laminated timber members and densified
+- [Review of state of the art of dowel laminated timber members and densified
 wood materials as sustainable engineered wood products for construction
 and building applications - A.Setayo - 2020](https://reader.elsevier.com/reader/sd/pii/S2666165919300043?token=9663DCA468842A9F59B232EA4B5029C3DABB07F3B8C5F3B3D529DEA7B8532B21E341B584647033A2143669DB666D121F&originRegion=eu-west-1&originCreation=20220719163936)
 - [DLT Profile Guide - Structure Craft - 2019](https://structurecraft.com/assets/img/materials/dlt_design_profile_guide_v4_march_2019.pdf)
