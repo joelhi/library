@@ -95,6 +95,8 @@ and building applications - A.Setayo - 2020](https://reader.elsevier.com/reader/
   - [Evolutionary principles applied to problem solving - David Rutten (Blog post)](https://www.grasshopper3d.com/profiles/blogs/evolutionary-principles) 
 
 **Projects**
+- Pavillions / Installations
+  - [FROM MACHINE CONTROL TO MATERIAL PROGRAMMINGSELF-SHAPING WOOD MANUFACTURING OF A HIGH PERFORMANCE CURVED CLT STRUCTURE – URBACH TOWER - D.Wood - 2020](https://www.researchgate.net/publication/343093649_FROM_MACHINE_CONTROL_TO_MATERIAL_PROGRAMMING_SELF-SHAPING_WOOD_MANUFACTURING_OF_A_HIGH_PERFORMANCE_CURVED_CLT_STRUCTURE_-_URBACH_TOWER) 
 
 **Theory**
 - General
