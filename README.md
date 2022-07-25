@@ -109,6 +109,7 @@ and building applications - A.Setayo - 2020](https://reader.elsevier.com/reader/
   - [Buildings as a global carbon sink - Churkina et. al - 2020](https://www.congress.gov/116/meeting/house/110542/documents/HHRG-116-II00-20200226-SD004.pdf)
 - Geometry
   - [Geometrical and Graphical Essays - George Adams - 1805](https://books.google.se/booksid=9CFRAAAAYAAJ&printsec=frontcover&source=gbs_atb&redir_esc=y#v=onepage&q&f=false)
+  - [Synergetics - R. Buckminster Fuller - 1997](https://monoskop.org/images/4/46/Fuller_R_Buckminster_Synergetics_1997.pdf)
    
 
 **Misc**
