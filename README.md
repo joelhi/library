@@ -1,6 +1,8 @@
 # :books: Library
 
-A place where I store general resources which I come across on my forays around the subjects I find interesting. I try to keep it reasonably organised.
+A place where I store general resources which I come across on my forays around the subjects I find interesting. 
+
+I try to keep it reasonably organised. I sometimes succeed.
 
 ### 🏗️ Structural Engineering
 
@@ -231,3 +233,6 @@ and building applications - A.Setayo - 2020](https://reader.elsevier.com/reader/
 
 **Conginition and Visuals**
 - [The Cognitive Style of Power Point - E. Tufte](https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf)
+
+**Ideas and Innovation
+- [AskNature.org](https://asknature.org/)
