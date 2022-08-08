@@ -201,6 +201,7 @@ and building applications - A.Setayo - 2020](https://reader.elsevier.com/reader/
 **Misc**
 
 - [Some Empirical Criteria for Attributing Creativity to a Computer Program - G. Ritchie - 2007](https://aura.abdn.ac.uk/bitstream/handle/2164/3068/Ritchie_2007.pdf;jsessionid=C5FFE8AAA17C803373229909748E49A2?sequence=1)
+- [Metaheuristics: The Metaphor Exposed - K. Soerensen - 2012](https://www.researchgate.net/publication/237009138_Metaheuristics_--_the_metaphor_exposed)
 
 ***
 
