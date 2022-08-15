@@ -57,7 +57,7 @@ I try to keep it reasonably organised. I sometimes succeed.
 - [Optimsation Concepts and Applications in Engineering - A. Belegundu - 2011](https://digilib.bppt.go.id/sampul/Optimization_Concepts_and_Applications_in_Engineering_full.pdf)
 - [Evolutionary Structural Optimisation Revisited - C. Preisinger - 2011](https://www.researchgate.net/publication/333024000_Evolutionary_Structural_Optimization_Revisited)
 - [IStructE presentation on layout optimisation - M. Glibert & P. Shepherd](https://www.istructe.org/resources/training/layout-optimisation-of-structures/)
-- [Genetic Algorithms in search, optimisation and machine learning - D Goldberg - 1989](http://www2.fiit.stuba.sk/~kvasnicka/Free%20books/Goldberg_Genetic_Algorithms_in_Search.pdf)
+- [Topology Optimisation: Theory, methods and applications - M.P Bendsoe, O. Sigmund - 2003](https://vdoc.pub/download/topology-optimization-theory-methods-and-applications-3eun5i6gatdg)
 
 **Case Studies**
 - [Briefing: Super tall timber Oakwood Tower - R.Foster - 2016](https://www.researchgate.net/publication/306028081_Briefing_Super_tall_timber_-_Oakwood_Tower)
@@ -186,6 +186,7 @@ and building applications - A.Setayo - 2020](https://reader.elsevier.com/reader/
   - 
 - Books
   - [Geometry Tools for Computer Graphics -P.J. Schneider - 2003](http://lib.ysu.am/open_books/312121.pdf)
+  - [Genetic Algorithms in search, optimisation and machine learning - D Goldberg - 1989](http://www2.fiit.stuba.sk/~kvasnicka/Free%20books/Goldberg_Genetic_Algorithms_in_Search.pdf)
 
 **Computer Graphics**
 
