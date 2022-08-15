@@ -120,6 +120,8 @@ and building applications - A.Setayo - 2020](https://reader.elsevier.com/reader/
   - [Cadmapper.com](https://cadmapper.com)
 - Organizations
   - [The Architecture Lobby](http://architecture-lobby.org/) 
+- Horizon2020
+  - [Re4 Horizon 2020 Project](http://www.re4.eu/)
 ***
 
 ### :computer: Computer Science
