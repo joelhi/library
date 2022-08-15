@@ -58,6 +58,7 @@ I try to keep it reasonably organised. I sometimes succeed.
 - [Evolutionary Structural Optimisation Revisited - C. Preisinger - 2011](https://www.researchgate.net/publication/333024000_Evolutionary_Structural_Optimization_Revisited)
 - [IStructE presentation on layout optimisation - M. Glibert & P. Shepherd](https://www.istructe.org/resources/training/layout-optimisation-of-structures/)
 - [Topology Optimisation: Theory, methods and applications - M.P Bendsoe, O. Sigmund - 2003](https://vdoc.pub/download/topology-optimization-theory-methods-and-applications-3eun5i6gatdg)
+- [A 99 Line Topology Optimization Code Written in MATLAB - O.Sigmund - 2001](https://www.researchgate.net/publication/225899336_Sigmund_O_A_99_Line_Topology_Optimization_Code_Written_in_MATLAB_Structural_and_Multidisciplinary_Optimization_21_120-127)
 
 **Case Studies**
 - [Briefing: Super tall timber Oakwood Tower - R.Foster - 2016](https://www.researchgate.net/publication/306028081_Briefing_Super_tall_timber_-_Oakwood_Tower)
