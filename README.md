@@ -89,7 +89,8 @@ and building applications - A.Setayo - 2020](https://reader.elsevier.com/reader/
 - Dissertations
   - [Integrated material practice in free‐form timber structures - T. Svilans - 2020](https://tomsvilans.com/docs/Svilans%20-%202020%20-%20Integrated%20material%20practice%20in%20free-form%20timber%20structures%20-%20final.pdf)
   - [Modelled on Software Engineering: Flexible Parametric Models in the Practice of Architecture - D.Davis - 2013](https://www.danieldavis.com/thesis/)
-  - [Multi-Objective Design Interface - R. Vierlinger - 2013](https://www.researchgate.net/publication/283073414_Multi_Objective_Design_Interface) 
+  - [Multi-Objective Design Interface - R. Vierlinger - 2013](https://www.researchgate.net/publication/283073414_Multi_Objective_Design_Interface)
+  - [Cultivating the Erratic: Architectural representation and materialisation after the digital turn - D. Norell - 2022](https://research.chalmers.se/en/publication/531499)
 
 - Books
   - [CITA Complex Modelling](https://www.researchgate.net/publication/345900871_CITA_Complex_Modelling)
