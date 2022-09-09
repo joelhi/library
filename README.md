@@ -247,3 +247,11 @@ and building applications - A.Setayo - 2020](https://reader.elsevier.com/reader/
 **Ideas and Innovation**
 - [AskNature.org](https://asknature.org/)
 - [Nature X Human - Neri Oxman Documentary](https://www.youtube.com/watch?v=3bCPrKqp4UI)
+
+***
+
+### 📰 Journals
+
+- [AI EDAM
+Artificial Intelligence for Engineering Design, Analysis and Manufacturing](https://www.cambridge.org/core/journals/ai-edam)
+
