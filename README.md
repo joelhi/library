@@ -158,6 +158,7 @@ and building applications - A.Setayo - 2020](https://reader.elsevier.com/reader/
   - [Introduction to Quality-Diversity Algorithms - Maxime Allard - 2021](https://maximeallard.lu/2021/03/24/quality-diversity-algorithms/)
   - [Quality-Diversity: A New Frontier for Evolutionary Computation - J. K. Pugh - 2016](https://www.frontiersin.org/articles/10.3389/frobt.2016.00040/full)
   - [Illuminating search spaces by mapping elites - J. Mouret - 2015](https://arxiv.org/abs/1504.04909)
+  - [Covariance Matrix Adaptation for the Rapid Illumination of Behavior Space - M. Fontaine - 2020](https://arxiv.org/pdf/1912.02400.pdf)
 
 - Self Organizing Maps (SOM)
   - [The self organizing map - T Kohonen - 1990](https://www.sciencedirect.com/sdfe/reader/pii/S0925231298000307/pdf)
