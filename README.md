@@ -203,7 +203,7 @@ and building applications - A.Setayo - 2020](https://reader.elsevier.com/reader/
 
 - Papers
   - [A head mounted 3 dimensional display - I.Sutherland - 1968](https://www.cise.ufl.edu/research/lok/teaching/ve-s07/papers/sutherland-headmount.pdf)
-  - [Recursively generated B-Spline surfaces on arbitrary topological meshes](https://people.eecs.berkeley.edu/~sequin/CS284/PAPERS/CatmullClark_SDSurf.pdf)
+  - [Recursively generated B-Spline surfaces on arbitrary topological meshes - E. Catmull - 1978](https://people.eecs.berkeley.edu/~sequin/CS284/PAPERS/CatmullClark_SDSurf.pdf)
 
 - General
   - [Three.js Fundamentals](https://threejsfundamentals.org/)
