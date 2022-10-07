@@ -92,6 +92,7 @@ and building applications - A.Setayo - 2020](https://reader.elsevier.com/reader/
   - [Modelled on Software Engineering: Flexible Parametric Models in the Practice of Architecture - D.Davis - 2013](https://www.danieldavis.com/thesis/)
   - [Multi-Objective Design Interface - R. Vierlinger - 2013](https://www.researchgate.net/publication/283073414_Multi_Objective_Design_Interface)
   - [Cultivating the Erratic: Architectural representation and materialisation after the digital turn - D. Norell - 2022](https://research.chalmers.se/en/publication/531499)
+  - [Efficient Visual and Interactive Architectural Design Optimisation with Model Based Methods - T. Wortmann - 2018](https://www.researchgate.net/publication/327199280_Efficient_Visual_and_Interactive_Architectural_Design_Optimization_with_Model-based_Methods)
 
 - Books
   - [CITA Complex Modelling](https://www.researchgate.net/publication/345900871_CITA_Complex_Modelling)
