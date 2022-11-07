@@ -94,6 +94,7 @@ and building applications - A.Setayo - 2020](https://reader.elsevier.com/reader/
   - [Cultivating the Erratic: Architectural representation and materialisation after the digital turn - D. Norell - 2022](https://research.chalmers.se/en/publication/531499)
   - [Efficient Visual and Interactive Architectural Design Optimisation with Model Based Methods - T. Wortmann - 2018](https://www.researchgate.net/publication/327199280_Efficient_Visual_and_Interactive_Architectural_Design_Optimization_with_Model-based_Methods)
   - [Meta-Parametric Design: Developing a Computational Approach for Early Stage Collaborative Practice - J.Harding - 2015](https://researchportal.bath.ac.uk/en/studentTheses/meta-parametric-design)
+  - [Material-based Design Computation - N.Oxman - 2010](https://core.ac.uk/download/pdf/4423487.pdf)
 
 - Books
   - [CITA Complex Modelling](https://www.researchgate.net/publication/345900871_CITA_Complex_Modelling)
