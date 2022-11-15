@@ -46,8 +46,8 @@ I try to keep it reasonably organised. I sometimes succeed.
   - [Calibrated Modeing of Form-Active Hybrid Structures - Quinn - 2016](https://www.researchgate.net/publication/306402535_Calibrated_and_Interactive_Modelling_of_Form-Active_Hybrid_Structures)
 
 - Dissertations
-  - [	Topology-driven form-finding - S. Suzuki - 2020](https://elib.uni-stuttgart.de/handle/11682/10882)
-  -[Early building design using multi-objective data approaches - N.Brown - 2019](https://dspace.mit.edu/handle/1721.1/123573)
+  - [Topology-driven form-finding - S. Suzuki - 2020](https://elib.uni-stuttgart.de/handle/11682/10882)
+  - [Early building design using multi-objective data approaches - N.Brown - 2019](https://dspace.mit.edu/handle/1721.1/123573)
   
 - Analytical Mechanics
   - [The limits of economy of material in frame-structures - A. G. M. Mitchell - 1904](https://zenodo.org/record/1430736#.Ys6NEHbMKUk)
