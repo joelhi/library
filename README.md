@@ -227,6 +227,7 @@ and building applications - A.Setayo - 2020](https://reader.elsevier.com/reader/
 - [Object-Oriented Modeling and Design - Rumbaugh et. al - 1991](https://edutechlearners.com/download/books/OOSE/OOAD.pdf)
 - [C++ for C# Developers: The Ebook - Jackson Dunstam](https://www.jacksondunstan.com/articles/7254)
 - [C++ scripting part 1: C#/C++ Communication - Jackson Dunstam](https://www.jacksondunstan.com/articles/3938#more-3938) 
+- [Refactoring Guru](https://refactoring.guru/)
 
 **General**
 - [Paul Graham Essays](http://www.paulgraham.com/articles.html)
