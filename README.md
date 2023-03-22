@@ -228,6 +228,7 @@ and building applications - A.Setayo - 2020](https://reader.elsevier.com/reader/
 - [C++ for C# Developers: The Ebook - Jackson Dunstam](https://www.jacksondunstan.com/articles/7254)
 - [C++ scripting part 1: C#/C++ Communication - Jackson Dunstam](https://www.jacksondunstan.com/articles/3938#more-3938) 
 - [Refactoring Guru](https://refactoring.guru/)
+- [Python Patterns](https://python-patterns.guide/)
 
 **General**
 - [Paul Graham Essays](http://www.paulgraham.com/articles.html)
@@ -258,6 +259,5 @@ and building applications - A.Setayo - 2020](https://reader.elsevier.com/reader/
 
 ### 📰 Journals
 
-- [AI EDAM
-Artificial Intelligence for Engineering Design, Analysis and Manufacturing](https://www.cambridge.org/core/journals/ai-edam)
+- [AI EDAM - Artificial Intelligence for Engineering Design, Analysis and Manufacturing](https://www.cambridge.org/core/journals/ai-edam)
 
