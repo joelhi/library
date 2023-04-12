@@ -172,6 +172,7 @@ and building applications - A.Setayo - 2020](https://reader.elsevier.com/reader/
   
 - Optimisation
   - [Towards Data Science - Evolutionary Computation Course ](https://towardsdatascience.com/evolutionary-computation-full-course-overview-f4e421e945d9)
+  - [COIL: Constrained Optimization in Learned Latent Space - P.Bentley - 2022](https://damassets.autodesk.net/content/dam/autodesk/research/publications-assets/pdf/coil-publication.pdf)
 
 **Computational Geometry**
 
