@@ -140,6 +140,7 @@ and building applications - A.Setayo - 2020](https://reader.elsevier.com/reader/
 
 - Implementation
   - [Coding Neural Networks in C#](https://www.tech-quantum.com/learn-coding-neural-network-in-csharp-understanding-what-we-are-going-to-do/)
+  - [Tensorflow whitepaper - 2015](http://download.tensorflow.org/paper/whitepaper2015.pdf)
 
 - Courses
   - [MIT Intro To Deep Learning](http://introtodeeplearning.com/)
