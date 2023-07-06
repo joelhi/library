@@ -173,7 +173,9 @@ and building applications - A.Setayo - 2020](https://reader.elsevier.com/reader/
   
 - Clustering
   - [DBSCAN Revisited, Revisited: Why and How You Should (Still) Use DBSCAN - E.Schubert - 2017](https://www.ccs.neu.edu/home/vip/teach/DMcourse/2_cluster_EM_mixt/notes_slides/revisitofrevisitDBSCAN.pdf)
-  
+
+- Geometric ML
+  - [Learning Mesh-based simulation with graph networks - T. PFaff- 2020](https://arxiv.org/pdf/2010.03409v4.pdf)   
 - Optimisation
   - [Towards Data Science - Evolutionary Computation Course ](https://towardsdatascience.com/evolutionary-computation-full-course-overview-f4e421e945d9)
   - [COIL: Constrained Optimization in Learned Latent Space - P.Bentley - 2022](https://damassets.autodesk.net/content/dam/autodesk/research/publications-assets/pdf/coil-publication.pdf)
