@@ -205,6 +205,7 @@ and building applications - A.Setayo - 2020](https://reader.elsevier.com/reader/
 - Books
   - [Geometry Tools for Computer Graphics -P.J. Schneider - 2003](http://lib.ysu.am/open_books/312121.pdf)
   - [Genetic Algorithms in search, optimisation and machine learning - D Goldberg - 1989](http://www2.fiit.stuba.sk/~kvasnicka/Free%20books/Goldberg_Genetic_Algorithms_in_Search.pdf)
+  - [Realtime Collision Detection - C. Ericson - 2005](http://www.r-5.org/files/books/computers/algo-list/realtime-3d/Christer_Ericson-Real-Time_Collision_Detection-EN.pdf)
 
 - Other
   - [Blazing Fast Neighbor Search with Spatial Hashing - Matthias Müller](https://matthias-research.github.io/pages/tenMinutePhysics/11-hashing.pdf)   
