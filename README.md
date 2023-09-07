@@ -61,6 +61,7 @@ I try to keep it reasonably organised. I sometimes succeed.
 - [Topology Optimisation: Theory, methods and applications - M.P Bendsoe, O. Sigmund - 2003](https://vdoc.pub/download/topology-optimization-theory-methods-and-applications-3eun5i6gatdg)
 - [A 99 Line Topology Optimization Code Written in MATLAB - O.Sigmund - 2001](https://www.researchgate.net/publication/225899336_Sigmund_O_A_99_Line_Topology_Optimization_Code_Written_in_MATLAB_Structural_and_Multidisciplinary_Optimization_21_120-127)
 - [Efficient Topology Optimization in Matlab using 88 lines of code - E.Andreassen - 2011](https://www.researchgate.net/publication/226050138_Efficient_topology_optimization_in_MATLAB_using_88_lines_of_code)
+- [Engineering Design Optimisation - J. Martin - 2023](http://flowlab.groups.et.byu.net/mdobook-dark.pdf)
 
 **Case Studies**
 - [Briefing: Super tall timber Oakwood Tower - R.Foster - 2016](https://www.researchgate.net/publication/306028081_Briefing_Super_tall_timber_-_Oakwood_Tower)
