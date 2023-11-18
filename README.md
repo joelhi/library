@@ -174,6 +174,9 @@ and building applications - A.Setayo - 2020](https://reader.elsevier.com/reader/
   
 - Clustering
   - [DBSCAN Revisited, Revisited: Why and How You Should (Still) Use DBSCAN - E.Schubert - 2017](https://www.ccs.neu.edu/home/vip/teach/DMcourse/2_cluster_EM_mixt/notes_slides/revisitofrevisitDBSCAN.pdf)
+ 
+- LLMs
+  - [Attention is all you need - A. Vashvani et al. - 2017](https://arxiv.org/pdf/1706.03762.pdf)
 
 - Geometric ML
   - Papers   
