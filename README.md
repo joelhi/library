@@ -139,6 +139,9 @@ and building applications - A.Setayo - 2020](https://reader.elsevier.com/reader/
 - General Resources
   - [Kaggle.com](https://www.kaggle.com/) 
 
+- Books
+  - [Mathematical Introduction to Deep Learning: Methods, Implementation & Theory - A. Jentzen - 2023](https://arxiv.org/pdf/2310.20360.pdf)   
+
 - Implementation
   - [Coding Neural Networks in C#](https://www.tech-quantum.com/learn-coding-neural-network-in-csharp-understanding-what-we-are-going-to-do/)
   - [Tensorflow whitepaper - 2015](http://download.tensorflow.org/paper/whitepaper2015.pdf)
