@@ -267,7 +267,7 @@ and building applications - A.Setayo - 2020](https://reader.elsevier.com/reader/
 **Typography**
 
 - Type Foundries
-  - [atipo (pay what you want)](https://www.atipofoundry.com/)   
+  - [atipo](https://www.atipofoundry.com/)   
 
 ***
 
