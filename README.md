@@ -215,6 +215,7 @@ and building applications - A.Setayo - 2020](https://reader.elsevier.com/reader/
   - [Dynamic Additively Weighted Voronoi Diagrams in 2D](https://www.researchgate.net/publication/220770059_Dynamic_Additively_Weighted_Voronoi_Diagrams_in_2D)
   - [Triangle: Engineering a 2D Quality Mesh Generator and Delaunay Triangulator - J.Shewchuk - 1996](https://people.eecs.berkeley.edu/~jrs/papers/triangle.pdf)
   - [Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges - M. Bronstein - 2021](https://arxiv.org/abs/2104.13478)
+  - [VDB: High-Resolution Sparse Volumes with Dynamic Topology - K. Museth - 2013](https://www.museth.org/Ken/Publications_files/Museth_TOG13.pdf)
 
 - Books
   - [Geometry Tools for Computer Graphics - P.J. Schneider - 2003](http://lib.ysu.am/open_books/312121.pdf)
