@@ -239,6 +239,12 @@ and building applications - A.Setayo - 2020](https://reader.elsevier.com/reader/
   - [Three.js Fundamentals](https://threejsfundamentals.org/)
   - [Learn OpenTK PDF](https://learnopengl.com/book/book_pdf.pdf)
 
+**GPU Programming**
+
+- Cuda
+  - [Cuda C++ Programming Guide - Nvidia - 2025](https://docs.nvidia.com/cuda/pdf/CUDA_C_Programming_Guide.pdf)
+  - [Cuda by example - J.Sanders - 2011](https://edoras.sdsu.edu/~mthomas/docs/cuda/cuda_by_example.book.pdf)
+
 **Misc**
 
 - [Some Empirical Criteria for Attributing Creativity to a Computer Program - G. Ritchie - 2007](https://aura.abdn.ac.uk/bitstream/handle/2164/3068/Ritchie_2007.pdf;jsessionid=C5FFE8AAA17C803373229909748E49A2?sequence=1)
