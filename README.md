@@ -140,8 +140,8 @@ and building applications - A.Setayo - 2020](https://reader.elsevier.com/reader/
   - [Kaggle.com](https://www.kaggle.com/) 
 
 - Books
+  - [Dive Into Deep Learning - A. Zhang et. al](https://d2l.ai/d2l-en.pdf) 
   - [Mathematical Introduction to Deep Learning: Methods, Implementation & Theory - A. Jentzen - 2023](https://arxiv.org/pdf/2310.20360.pdf)
-  - [C++ Primer](https://zhjwpku.com/assets/pdf/books/C++.Primer.5th.Edition_2013.pdf)
 
 - Implementation
   - [Coding Neural Networks in C#](https://www.tech-quantum.com/learn-coding-neural-network-in-csharp-understanding-what-we-are-going-to-do/)
@@ -244,6 +244,10 @@ and building applications - A.Setayo - 2020](https://reader.elsevier.com/reader/
 - Cuda
   - [Cuda C++ Programming Guide - Nvidia - 2025](https://docs.nvidia.com/cuda/pdf/CUDA_C_Programming_Guide.pdf)
   - [Cuda by example - J.Sanders - 2011](https://edoras.sdsu.edu/~mthomas/docs/cuda/cuda_by_example.book.pdf)
+
+** Books **
+- Programming
+  - [C++ Primer](https://zhjwpku.com/assets/pdf/books/C++.Primer.5th.Edition_2013.pdf)
 
 **Misc**
 
