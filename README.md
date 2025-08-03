@@ -137,7 +137,8 @@ and building applications - A.Setayo - 2020](https://reader.elsevier.com/reader/
 **Machine Learning**
 
 - General Resources
-  - [Kaggle.com](https://www.kaggle.com/) 
+  - [Kaggle.com](https://www.kaggle.com/)
+  - [UCI Machine Learning Repository](https://archive.ics.uci.edu/datasets)
 
 - Books
   - [Dive Into Deep Learning - A. Zhang et. al](https://d2l.ai/d2l-en.pdf) 
@@ -157,6 +158,7 @@ and building applications - A.Setayo - 2020](https://reader.elsevier.com/reader/
 - CNNs
   - [The Ultimate Guide to CNNs](https://www.superdatascience.com/blogs/the-ultimate-guide-to-convolutional-neural-networks-cnn)
   - [Gradient Based Learning Applied to Document Recongnition - Y.Lecun - 1998](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf)
+
 - Libraries
   - [Definitive Guide to Tensorflow.NET](https://tensorflownet.readthedocs.io/en/latest/FrontCover.html) 
 
@@ -190,6 +192,7 @@ and building applications - A.Setayo - 2020](https://reader.elsevier.com/reader/
     - [PyTorch.Geometric](https://github.com/pyg-team/pytorch_geometric)
     - [DeepGraph](https://github.com/dmlc/dgl)
     - [DeepMind: GraphNets](https://github.com/google-deepmind/graph_nets)
+
 - Optimisation
   - [Towards Data Science - Evolutionary Computation Course ](https://towardsdatascience.com/evolutionary-computation-full-course-overview-f4e421e945d9)
   - [COIL: Constrained Optimization in Learned Latent Space - P.Bentley - 2022](https://damassets.autodesk.net/content/dam/autodesk/research/publications-assets/pdf/coil-publication.pdf)
