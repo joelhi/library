@@ -188,6 +188,8 @@ and building applications - A.Setayo - 2020](https://reader.elsevier.com/reader/
   - Papers   
     - [Learning Mesh-based simulation with graph networks - T. PFaff- 2020](https://arxiv.org/pdf/2010.03409v4.pdf)
     - [Graph Neural Networks: A review of methods and applications - 2018](https://arxiv.org/abs/1812.08434)
+    - [3DShape2VecSet: A 3D Shape Representation for Neural Fields and Generative Diffusion Models - 2023](https://dl.acm.org/doi/pdf/10.1145/3592442)
+    - [A large geometry model for 3D representation learning and diffusion -2024](https://arxiv.org/pdf/2410.01295)
   - Libraries
     - [PyTorch.Geometric](https://github.com/pyg-team/pytorch_geometric)
     - [DeepGraph](https://github.com/dmlc/dgl)
