@@ -137,6 +137,7 @@ and building applications - A.Setayo - 2020](https://reader.elsevier.com/reader/
 **Machine Learning**
 
 - General Resources
+  - [Bayesian Data Analysis - A.Gelman - 2025](https://sites.stat.columbia.edu/gelman/book/BDA3.pdf) 
   - [Kaggle.com](https://www.kaggle.com/)
   - [UCI Machine Learning Repository](https://archive.ics.uci.edu/datasets)
 
