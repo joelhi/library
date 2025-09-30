@@ -250,6 +250,7 @@ and building applications - A.Setayo - 2020](https://reader.elsevier.com/reader/
 - Cuda
   - [Cuda C++ Programming Guide - Nvidia - 2025](https://docs.nvidia.com/cuda/pdf/CUDA_C_Programming_Guide.pdf)
   - [Cuda by example - J.Sanders - 2011](https://edoras.sdsu.edu/~mthomas/docs/cuda/cuda_by_example.book.pdf)
+  - [Blog: Inside NVIDIA GPUs: Anatomy of high performance matmul kernels](https://www.aleksagordic.com/blog/matmul)
 
 ** Books **
 - Programming
