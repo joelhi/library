@@ -165,6 +165,7 @@ and building applications - A.Setayo - 2020](https://reader.elsevier.com/reader/
 
 - Reinforcement Learning
   - [Deep Reinforcement Learning: Pong from Pixels - A.Karpathy (Blog post)](http://karpathy.github.io/2016/05/31/rl/)
+  - [Proximal Policy Optimization Algorithms - J. Schulman et. al. - 2017]
 
 - AutoEncoders
   - [Autoencoding Variational Bayes - D. P Kingma - 2013](https://arxiv.org/pdf/1312.6114.pdf)
