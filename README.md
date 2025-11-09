@@ -143,7 +143,8 @@ and building applications - A.Setayo - 2020](https://reader.elsevier.com/reader/
 - Books
   - [Dive Into Deep Learning - A. Zhang et. al](https://d2l.ai/d2l-en.pdf) 
   - [Mathematical Introduction to Deep Learning: Methods, Implementation & Theory - A. Jentzen - 2023](https://arxiv.org/pdf/2310.20360.pdf)
-  - [Bayesian Data Analysis - A.Gelman - 2025](https://sites.stat.columbia.edu/gelman/book/BDA3.pdf) 
+  - [Bayesian Data Analysis - A.Gelman - 2025](https://sites.stat.columbia.edu/gelman/book/BDA3.pdf)
+  - [The Principles of Diffusion Models - C. H. Lai - 2025](https://arxiv.org/abs/2510.21890)
 
 - Implementation
   - [Coding Neural Networks in C#](https://www.tech-quantum.com/learn-coding-neural-network-in-csharp-understanding-what-we-are-going-to-do/)
