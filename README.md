@@ -152,6 +152,7 @@ and building applications - A.Setayo - 2020](https://reader.elsevier.com/reader/
 
 - Courses
   - [MIT Intro To Deep Learning](http://introtodeeplearning.com/)
+  - [Machine Learning for Mechanical Engineering](https://ideal.umd.edu/ML4ME_Textbook/)
 
 - ANNs
   - [A Neural Network in 13 lines of python](https://iamtrask.github.io/2015/07/27/python-network-part2/)
